@@ -1,18 +1,15 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-  <meta charset="UTF-8">
-  <title>Bayym Music</title>
-</head>
-<body>
+# Bayym Music 🎵
 
-<h1>🎵 Bayym Music</h1>
-<p>Hoş geldin</p>
+Hoş geldin!  
 
-<h3>Şarkı 1</h3>
-<audio controls>
-  <source src="music/sarki1.mp3" type="audio/mpeg">
-</audio>
+Bu repo, benim müzik sitem için hazırlanmıştır.  
+Siteyi görmek için GitHub Pages linkini kullanabilirsin:  
 
-</body>
-</html>
+[Siteyi Aç](https://bayymtajiyew08-cmd.github.io/bayym_music/)
+
+---
+
+## İçerik
+- Şarkı 1
+- Şarkı 2
+- Şarkı 3
