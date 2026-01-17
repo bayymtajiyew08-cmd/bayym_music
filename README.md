@@ -13,3 +13,7 @@ Siteyi görmek için GitHub Pages linkini kullanabilirsin:
 - Şarkı 1
 - Şarkı 2
 - Şarkı 3
+<audio controls>
+  <source src="songs/song1.mp3" type="audio/mpeg">
+  Tarayıcınız audio elementini desteklemiyor.
+</audio>
