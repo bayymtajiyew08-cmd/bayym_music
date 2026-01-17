@@ -1,4 +1,16 @@
-# bayym_music
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Bayym Music</title>
+</head>
+<body>
+
+<h1>🎵 Bayym Music</h1>
+<p>Hoş geldin</p>
+
+</body>
+</html># bayym_music
 index.html<!DOCTYPE html>
 <html lang="tr">
 <head>
