@@ -13,3 +13,4 @@ Siteyi görmek için GitHub Pages linkini kullanabilirsin:
 - Şarkı 1
 - Şarkı 2
 - Şarkı 3
+<img src="images/song1.jpg" alt="Şarkı 1" width="300">
